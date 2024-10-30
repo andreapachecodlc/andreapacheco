@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Portfolio
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Andrea
+last_name: Pacheco De la Cruz
 
 # Status emoji
 status:
@@ -20,36 +20,37 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data analyst
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ""
+    url: ""
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'andrea.pachecodlc@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/andreapachecodlc
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/andrea-pacheco-dlc/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data analysis
+  - Python
+  - Machine Learning
+  - Data Visualization
 
 education:
   - area: PhD Artificial Intelligence
@@ -122,7 +123,7 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -183,4 +184,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a data analyst with a background in genetics and biotechnology, I discovered my passion for data analysis through bioinformatics and working with biological data. This experience motivated me to deepen my knowledge and expand my expertise in data analysis beyond the biological sector, exploring how data can generate impact across various industries. I am particularly interested in applying machine learning tools to uncover patterns and create predictive models that guide strategic decision-making.
+
+I am a detail-oriented, adaptable, and collaborative individual, always seeking to improve processes through innovative solutions. With hands-on experience in Python, SQL, BigQuery, Power BI, and Machine Learning, I am skilled at transforming raw data into actionable insights and creating visually appealing data visualizations that enhance understanding for diverse audiences.
